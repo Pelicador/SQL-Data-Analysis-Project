@@ -24,7 +24,7 @@ GROUP BY p.product_name
 ORDER BY total_revenue DESC;
 
 -- Which 5 products Generating the Highest Revenue?
--- Complex but Flexibly Ranking Using Window Functions ROW_NUMBER(), RANK()
+-- Complex but Flexible Ranking Using Window Functions ROW_NUMBER(), RANK()
 SELECT *
 FROM (
 SELECT
