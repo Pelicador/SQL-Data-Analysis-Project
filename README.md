@@ -4,7 +4,7 @@
 1. [Project Background](#project-background)
 2. [Data Structure](#data-structure-and-initial-checks)
 3. [Executive Summary](#executive-summary)
-4. [Sales Trend](#sales-trend-analysis)
+4. [Sales Trends Analysis](#sales-trends-analysis)
 5. [Product Insights](#product-insights)
    - [Revenue Composition Migration Analysis](#revenue-composition-migration-analysis)
    - [Order Volume Distribution Shift](#order-volume-distribution-shift)
