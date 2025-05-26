@@ -69,9 +69,22 @@ Customer acquisition velocity reached unprecedented levels in 2013, with the act
 - **Two-Order Frequency**: Explosive growth from 8.25% (2012) to 31.53% (2013), nearly quadrupling the repeat purchase rate. This 23-percentage-point increase suggests effective post-purchase engagement strategies and successful introduction of complementary products driving second transactions.
 - **Basket Optimization**: Average items per order increased 150% from 1.0 to 2.5 units, indicating successful implementation of cross-selling strategies, bundling initiatives, or customer education around complementary product needs.
 ![Customer Insights](/docs/Customer_insights.png)
+
 #### Strategic Business Model Transformation
 The customer data reveals a fundamental shift from a VIP-centric, high-value transaction model to a democratized, volume-driven approach. New customer acquisition has become the primary revenue growth driver, while retention metrics show substantial improvement through enhanced engagement strategies. The combination of reduced single-purchase rates, increased basket sizes, and expanded customer base indicates successful execution of market expansion while maintaining customer lifetime value optimization.
 
+### Regional Performance Analysis
+- **Market Dominance**: The United States leads all markets with 34.31% of total order volume (20K orders) and the highest revenue concentration, establishing itself as TrailBlazer's primary market.
+- **Secondary Markets**: Canada follows as the second-largest market at 22.59% order share (13K orders), while Australia captures 12.53% (7K orders), indicating strong English-speaking market penetration.
+- **European Performance**: Germany and United Kingdom show similar market sizes at 11.7% (7K orders) and 9.52% (5K orders) respectively, while France maintains 9.36% (5K orders), suggesting consistent European market presence.
+- **Customer Mix by Region**:
+  - US/Australia/UK: Balanced VIP, Regular, and New customer distribution
+  - Canada/Germany: New customer acquisition focus
+  - France: VIP and New customer concentration
+![Region Insights](/docs/Region_insights.png)
+
+- **Growth Pattern**: All markets show accelerating growth from 2013, with steepest curves in the US, Canada, and Australia.
+- **Strategic Position**: English-speaking markets capture ~79% of total orders, indicating successful geographic diversification with a strong European foundation for expansion.
 
 
 
