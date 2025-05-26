@@ -155,7 +155,7 @@ SQL-PowerBI-Data-Analysis-Project/
 │   ├── 10_part_to_whole_analysis.sql              # To compare performance or metrics across dimensions or time periods
 │   ├── 11_data_segmentation.sql                   # To group data into meaningful categories for targeted insights
 │   ├── 12_report_customers.sql                    # To consolidates key customer metrics and behaviors into report for other analyst
-│   ├── 13_report_products.sql                     # # To consolidates key product metrics and behaviors into report for other analyst
+│   ├── 13_report_products.sql                     # To consolidates key product metrics and behaviors into report for other analyst
 │
 ├── README.md                                      # Project Details and insights
 └── LICENSE                                        # License information for the repository
