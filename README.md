@@ -38,10 +38,10 @@ TrailBlazer Cycles' performance metrics reveal a complex business transformation
 
 ## Key Analysis and Insights
 ### Sales Trends
-**Revenue Growth**: Total revenue inncreased significantly from 2011 to 2013, reaching nearly $2M in December 2013. Monthly revenue in 2013 consistently exceeded 2012 figures (e.g., March 2013: $1.05M vs. March 2012: $373K).
-**Order Count Surge**: Order volume grew dramatically from 3,269 orders in 2012 to 21,287 orders in 2013. Each month in 2013 shows a year-over-year increase in order count (e.g., January: 252 in 2012 vs. 1,662 in 2013).
-**Average Order Value (AOV) Decline**: AOV dropped year-over-year from around $3200 in 2011 to $1800 in 2012 to just around $310 in  2013. Every month in 2013 shows a year-over-year decline in AOV compared to 2012.
-**Overall Insight**: Revenue increases are driven by volume, not order size. Business strategy appears focused on scaling transactions even if individual order value declines.
+- **Revenue Growth**: Total revenue inncreased significantly from 2011 to 2013, reaching nearly $2M in December 2013. Monthly revenue in 2013 consistently exceeded 2012 figures (e.g., March 2013: $1.05M vs. March 2012: $373K).
+- **Order Count Surge**: Order volume grew dramatically from 3,269 orders in 2012 to 21,287 orders in 2013. Each month in 2013 shows a year-over-year increase in order count (e.g., January: 252 in 2012 vs. 1,662 in 2013).
+- **Average Order Value (AOV) Decline**: AOV dropped year-over-year from around $3200 in 2011 to $1800 in 2012 to just around $310 in  2013. Every month in 2013 shows a year-over-year decline in AOV compared to 2012.
+- **Overall Insight**: Revenue increases are driven by volume, not order size. Business strategy appears focused on scaling transactions even if individual order value declines.
 ![Sales Trend](/docs/Sales_Trend.png)
 
 
