@@ -22,8 +22,12 @@ The analytical foundation is built upon a robust star schema architecture compri
 - `gold.dim_products`: 295 product records with comprehensive attributes including categories, 
    subcategories, and pricing
 - `gold.fact_sales`: 60,379 transactional records capturing all sales data with foreign key relationships
-
-
+### Temporal Coverage 
+- **Primary Analysis Period**: December 2010 to January 2014
+- **Data Quality Considerations**: Years 2010 and 2014 have been filtered from certain year-over-year 
+  comparative visualizations due to incomplete data coverage, ensuring analytical accuracy and meaningful 
+  trend identification.
+#### To learn more about the data ETL, Prepocessing, Cleaning, check here.
 
 
 
