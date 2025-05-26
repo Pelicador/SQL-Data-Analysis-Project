@@ -15,7 +15,8 @@
    - [Customer Engagement Behavioral Analysis](#customer-engagement-behavioral-analysis)
    - [Strategic Business Model Transformation](#strategic-business-model-transformation)
 7. [Regional Performance Analysis](#regional-performance-analysis)
-8. [Repository Structure](#repository-structure)
+8. [Strategic Reccomendations for Stakeholders](#strategic-recommendations-for-stakeholders)
+9. [Repository Structure](#repository-structure)
 
 ## Project Background
 TrailBlazer Cycles is a global e-commerce company established in December 2010, specializing in the worldwide distribution of bicycles, accessories, and cycling apparel through their digital platform. The organization has accumulated substantial transactional data across sales, customer demographics, and product performance metrics that had remained largely underutilized prior to this analysis initiative.
@@ -102,7 +103,7 @@ The customer data reveals a fundamental shift from a VIP-centric, high-value tra
 - **Strategic Position**: English-speaking markets capture ~79% of total orders, indicating successful geographic diversification with a strong European foundation for expansion.
 
 
-## Strategic Recommendations by Stakeholder
+## Strategic Recommendations for Stakeholders
 ### Executive Leadership / CEO
 1. **AOV Recovery Initiative**: Implement premium bundling strategies to counter 80% AOV decline while maintaining 200% customer growth momentum
 2. **Market Expansion Focus**: Double down on US market dominance (34% order share) and replicate success model in top English-speaking markets
