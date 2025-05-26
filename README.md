@@ -1,5 +1,4 @@
-# SQL-Power-Data-Analysis-Project
-  ## Trailblazers Market Analysis
+# SQL-PowerBI-Data-Analysis-Project
 
 ## **Table of Contents**
 
@@ -13,5 +12,28 @@ The scope of this project addresses four fundamental business areas:
 1. **Sales Trends Analysis**: Comprehensive evaluation of historical sales patterns across global and regional markets, with specific focus on Revenue generation, Order Volume dynamics, and Average Order Value (AOV) trends.
 2. **Product Performance Assessment**: Detailed analysis of various product lines and their respective contributions to overall sales performance.
 3. **Customer Segment Strategy**: Assessment of current customer base and potential to enhance customer retention rates and drive incremental sales growth.
-4. **Regional Market Evaluation**: Comparative analysis of sales performance and order patterns across different geographical markets
+4. **Regional Market Evaluation**: Comparative analysis of sales performance and order patterns across different geographical markets,
+
+## Data Structure and Initial Checks
+The analytical foundation is built upon a robust star schema architecture comprising dimension and fact tables, ensuring optimal query performance and analytical flexibility:
+### Database Architecture
+
+- gold.dim_customers: 18,484 customer records with demographic and profile information
+- gold.dim_products: 295 product records with comprehensive attributes including categories, subcategories, 
+  and pricing
+- gold.fact_sales: 60,379 transactional records capturing all sales data with foreign key relationships
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
