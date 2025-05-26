@@ -68,9 +68,10 @@ Customer acquisition velocity reached unprecedented levels in 2013, with the act
 - **Single-Purchase Rate**: Dramatic improvement from 73.85% (2012) to 49.73% (2013), representing a 24-percentage-point reduction in one-time buyers. This metric signals significantly enhanced customer retention and successful conversion of trial purchases into ongoing relationships.
 - **Two-Order Frequency**: Explosive growth from 8.25% (2012) to 31.53% (2013), nearly quadrupling the repeat purchase rate. This 23-percentage-point increase suggests effective post-purchase engagement strategies and successful introduction of complementary products driving second transactions.
 - **Basket Optimization**: Average items per order increased 150% from 1.0 to 2.5 units, indicating successful implementation of cross-selling strategies, bundling initiatives, or customer education around complementary product needs.
+![Customer Insights](/docs/Customer_insights.png)
 #### Strategic Business Model Transformation
 The customer data reveals a fundamental shift from a VIP-centric, high-value transaction model to a democratized, volume-driven approach. New customer acquisition has become the primary revenue growth driver, while retention metrics show substantial improvement through enhanced engagement strategies. The combination of reduced single-purchase rates, increased basket sizes, and expanded customer base indicates successful execution of market expansion while maintaining customer lifetime value optimization.
-![Customer Insights](/docs/Customer_insights.png)
+
 
 
 
