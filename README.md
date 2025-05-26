@@ -32,9 +32,9 @@ The analytical foundation is built upon a robust star schema architecture compri
 ## Executive Summary
 TrailBlazer Cycles' performance metrics reveal a complex business transformation with mixed signals requiring strategic consideration. Over the analysis period, the company achieved $29M in total revenue across 28,000 orders, serving 18,000 unique customers through a portfolio of 130 products with 60,000 units sold.
 ![KPI Summary](/docs/Summary_KPI.png)
-**Critical Finding** : While top-line growth indicators show positive momentum in sales volume, order frequency, and customer acquisition year-over-year, a concerning 80%+ decline in Average Order Value signals a fundamental shift in business model execution.
-**Root Cause Analysis**: The AOV deterioration correlates directly with TrailBlazer's strategic pivot from a bike-focused retailer to a diversified cycling merchandise provider, incorporating lower-margin accessories and apparel categories. This product mix evolution has fundamentally altered the revenue composition and customer purchasing behavior.
-**Analytical Framework**: Subsequent analysis will examine revenue trend patterns, order volume dynamics, year-over-year comparative performance, product category performance drivers, customer segmentation insights, and regional market variations to provide actionable intelligence for strategic decision-making.
+- **Critical Finding** : While top-line growth indicators show positive momentum in sales volume, order frequency, and customer acquisition year-over-year, a concerning 80%+ decline in Average Order Value signals a fundamental shift in business model execution.
+- **Root Cause Analysis**: The AOV deterioration correlates directly with TrailBlazer's strategic pivot from a bike-focused retailer to a diversified cycling merchandise provider, incorporating lower-margin accessories and apparel categories. This product mix evolution has fundamentally altered the revenue composition and customer purchasing behavior.
+- **Analytical Framework**: Subsequent analysis will examine revenue trend patterns, order volume dynamics, year-over-year comparative performance, product category performance drivers, customer segmentation insights, and regional market variations to provide actionable intelligence for strategic decision-making.
 
 ## Key Analysis and Insights
 ### Sales Trends
@@ -56,7 +56,21 @@ TrailBlazer Cycles' performance metrics reveal a complex business transformation
 - **Customer Base Expansion**: Product diversification has successfully opened two distinct market channels: (1) existing customers seeking complementary products and (2) new price-conscious segments previously excluded from the premium bike market.
 - **Cross-Selling Optimization**: The accessory and apparel growth suggests successful basket-building strategies among existing bike purchasers, indicating effective customer lifetime value expansion tactics
 
-
+### Customer Insights
+##### Customer Base Expansion Analysis
+Customer acquisition velocity reached unprecedented levels in 2013, with the active customer base expanding 200%+ from fewer than 2,000 (2012) to over 6,000 customers by year-end 2013. This growth trajectory correlates directly with TrailBlazer's strategic pivot toward affordable product offerings and the resulting surge in order volume, indicating successful market penetration beyond the traditional premium cycling demographic.
+#### Revenue Composition by Customer Segment
+- **VIP Customers (>$5,000 lifetime value, >12 months tenure)**: Historically dominated revenue generation through 2012, representing the core premium bike purchaser base. Post-2012, this segment experienced declining revenue share as business model diversification attracted new customer categories.
+- **Regular Customers**: Demonstrated initial momentum gains in early 2012 as mid-tier bike offerings expanded market reach. However, lost relative revenue ground by late 2013 as new customer acquisition accelerated and VIP purchasing patterns shifted.
+- **New Customers (<12 months tenure)**: Emerged as the primary growth engine starting in 2012, with sharp increases in revenue contribution that sustained through 2013. This segment's performance directly reflects the success of product diversification and lower price point accessibility in attracting first-time buyers.
+#### Customer Engagement Behavioral Analysis (2013)
+- **Multi-Order Customers (3+)**: Slight uptick to 18.74% from historical 17-18% range, indicating stable high-engagement customer retention among core cycling enthusiasts.
+- **Single-Purchase Rate**: Dramatic improvement from 73.85% (2012) to 49.73% (2013), representing a 24-percentage-point reduction in one-time buyers. This metric signals significantly enhanced customer retention and successful conversion of trial purchases into ongoing relationships.
+- **Two-Order Frequency**: Explosive growth from 8.25% (2012) to 31.53% (2013), nearly quadrupling the repeat purchase rate. This 23-percentage-point increase suggests effective post-purchase engagement strategies and successful introduction of complementary products driving second transactions.
+- **Basket Optimization**: Average items per order increased 150% from 1.0 to 2.5 units, indicating successful implementation of cross-selling strategies, bundling initiatives, or customer education around complementary product needs.
+#### Strategic Business Model Transformation
+The customer data reveals a fundamental shift from a VIP-centric, high-value transaction model to a democratized, volume-driven approach. New customer acquisition has become the primary revenue growth driver, while retention metrics show substantial improvement through enhanced engagement strategies. The combination of reduced single-purchase rates, increased basket sizes, and expanded customer base indicates successful execution of market expansion while maintaining customer lifetime value optimization.
+![Customer Insights](/docs/Customer_insights.png)
 
 
 
