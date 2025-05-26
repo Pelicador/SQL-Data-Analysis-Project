@@ -123,7 +123,45 @@ The customer data reveals a fundamental shift from a VIP-centric, high-value tra
 1. **European Acceleration**: Scale German, UK, and French markets (currently 5-7K orders each) to match Canadian performance (13K orders)
 2. **Channel Differentiation**: Develop specialized sales approaches for premium bikes vs. high-volume accessories/apparel segments
 
+---
+## Repository Structure
+```
+SQL-PowerBI-Data-Analysis-Project/
+│
+├── PowerBI/                                       # PowerBI files
+│   ├── SQL-PowerBI_Trailblazers_Analysis.pbix     # PowerBI dashboard for download
+│   ├── SQL-PowerBI_Trailblazers_Analysis.pdf      # PowerBI dashboard in pdf format
+│
+├── datasets/                                      # Clean datasets used for analysis 
+│
+├── docs/                                          # Project visualizations and architecture details
+│   ├── Customer_insights.png                      # Customer insights visualizations
+│   ├── Product_insights.png                       # Product insights visualizations
+│   ├── Region_insights.png                        # Region insights visualizations
+│   ├── Sales_Trend.png                            # Sales Trend visualizations
+│   ├── Summary_KPI.png                            # Key performance indicators visualizations
+│   ├── data_model.png                             # Data model image
+│
+├── scripts/                                       # SQL scripts data inspections and answering businesss questions
+│   ├── 01_database_exploration.sql                # To explore database, tables and their schemas
+│   ├── 02_dimensions_exploration.sql              # To explore the structure and unique values of dimension tables
+│   ├── 03_date_range_exploration.sql              # To determine the temporal boundaries of key data points
+│   ├── 04_measures_exploration.sql                # To calculate aggregated metrics for quick insights
+│   ├── 05_magnitude_analysis.sql                  # To quantify data and group results by specific dimensions
+│   ├── 06_ranking_analysis.sql                    # To rank items based on performance or other metrics
+│   ├── 07_change_over_time_analysis.sql           # To track trends, growth, and changes in key metrics over time
+│   ├── 08_cumulative_analysis.sql                 # To calculate running totals or moving averages for key metrics
+│   ├── 09_performance_analysis.sql                # To measure the performance of products, customers, or regions over time
+│   ├── 10_part_to_whole_analysis.sql              # To compare performance or metrics across dimensions or time periods
+│   ├── 11_data_segmentation.sql                   # To group data into meaningful categories for targeted insights
+│   ├── 12_report_customers.sql                    # To consolidates key customer metrics and behaviors into report for other analyst
+│   ├── 13_report_products.sql                     # # To consolidates key product metrics and behaviors into report for other analyst
+│
+├── README.md                                      # Project Details and insights
+└── LICENSE                                        # License information for the repository
 
+```
+---
 
 
 
