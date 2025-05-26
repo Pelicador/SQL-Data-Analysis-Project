@@ -32,6 +32,17 @@ The analytical foundation is built upon a robust star schema architecture compri
 ## Executive Summary
 TrailBlazer Cycles' performance metrics reveal a complex business transformation with mixed signals requiring strategic consideration. Over the analysis period, the company achieved $29M in total revenue across 28,000 orders, serving 18,000 unique customers through a portfolio of 130 products with 60,000 units sold.
 ![KPI Summary](/docs/Summary_KPI.png)
+**Critical Finding** : While top-line growth indicators show positive momentum in sales volume, order frequency, and customer acquisition year-over-year, a concerning 80%+ decline in Average Order Value signals a fundamental shift in business model execution.
+**Root Cause Analysis**: The AOV deterioration correlates directly with TrailBlazer's strategic pivot from a bike-focused retailer to a diversified cycling merchandise provider, incorporating lower-margin accessories and apparel categories. This product mix evolution has fundamentally altered the revenue composition and customer purchasing behavior.
+**Analytical Framework**: Subsequent analysis will examine revenue trend patterns, order volume dynamics, year-over-year comparative performance, product category performance drivers, customer segmentation insights, and regional market variations to provide actionable intelligence for strategic decision-making.
+
+## Key Analysis and Insights
+### Sales Trends
+**Revenue Growth**: Total revenue inncreased significantly from 2011 to 2013, reaching nearly $2M in December 2013. Monthly revenue in 2013 consistently exceeded 2012 figures (e.g., March 2013: $1.05M vs. March 2012: $373K).
+**Order Count Surge**: Order volume grew dramatically from 3,269 orders in 2012 to 21,287 orders in 2013. Each month in 2013 shows a year-over-year increase in order count (e.g., January: 252 in 2012 vs. 1,662 in 2013).
+**Average Order Value (AOV) Decline**: AOV dropped year-over-year from around $3200 in 2011 to $1800 in 2012 to just around $310 in  2013. Every month in 2013 shows a year-over-year decline in AOV compared to 2012.
+**Overall Insight**: Revenue increases are driven by volume, not order size. Business strategy appears focused on scaling transactions even if individual order value declines.
+![Sales Trend](/docs/Sales_Trend.png)
 
 
 
