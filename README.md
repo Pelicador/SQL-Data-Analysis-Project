@@ -1,7 +1,21 @@
 # SQL-PowerBI-Data-Analysis-Project
 
 ## **Table of Contents**
-
+1. [Project Background](#project-background)
+2. [Data Structure](#data-structure-and-initial-checks)
+3. [Executive Summary](#executive-summary)
+4. [Sales Trend](#sales-trend-analysis)
+5. [Product Insights](#product-insights)
+   - [Revenue Composition Migration Analysis](#revenue-composition-migration-analysis)
+   - [Order Volume Distribution Shift](#order-volume-distribution-shift)
+   - [Strategic Implications](#strategic-implications)
+6. [Customer Insights](#customer-insights)
+   - [Customer Base Expansion Analysis](#custome-base-expansion-analysis)
+   - [Revenue Composition by Customer Segment](#revenue-composiion-by-customer-segment)
+   - [Customer Engagement Behavioral Analysis](#customer-engagement-behavioral-analysis)
+   - [Strategic Business Model Transformation](#strategic-business-model-transformation)
+7. [Regional Performance Analysis](#regional-performance-analysis)
+8. [Repository Structure](#repository-structure)
 
 ## Project Background
 TrailBlazer Cycles is a global e-commerce company established in December 2010, specializing in the worldwide distribution of bicycles, accessories, and cycling apparel through their digital platform. The organization has accumulated substantial transactional data across sales, customer demographics, and product performance metrics that had remained largely underutilized prior to this analysis initiative.
