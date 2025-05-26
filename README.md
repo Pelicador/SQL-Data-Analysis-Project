@@ -17,7 +17,7 @@ The scope of this project addresses four fundamental business areas:
 ## Data Structure and Initial Checks
 The analytical foundation is built upon a robust star schema architecture comprising dimension and fact tables, ensuring optimal query performance and analytical flexibility:
 ### Database Architecture
-
+![Data Architecture layout](/docs/data_model.png)
 - `gold.dim_customers` : 18,484 customer records with demographic and profile information
 - `gold.dim_products`: 295 product records with comprehensive attributes including categories, 
    subcategories, and pricing
