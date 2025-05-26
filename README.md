@@ -43,8 +43,18 @@ TrailBlazer Cycles' performance metrics reveal a complex business transformation
 - **Average Order Value (AOV) Decline**: AOV dropped year-over-year from around $3200 in 2011 to $1800 in 2012 to just around $310 in  2013. Every month in 2013 shows a year-over-year decline in AOV compared to 2012.
 - **Overall Insight**: Revenue increases are driven by volume, not order size. Business strategy appears focused on scaling transactions even if individual order value declines.
 ![Sales Trend](/docs/Sales_Trend.png)
-
-
+### Product Insights
+#### Revenue Composition Migration Analysis
+- **Baseline Period (2010-2011)**: TrailBlazer operated as a premium bike specialist with a concentrated product mix. High-value units (>$1,000) commanded 97% of revenue share, anchored by mountain and road bikes averaging $3,300. A minimal secondary tier of road bikes at $699 captured the remaining 3% of revenue, establishing a clear premium positioning.
+- **Diversification Phase 1 (2012)**: Q3 marked the initial portfolio expansion with accessories (tires, helmets) and apparel (jerseys, caps, vests) introduction. These new categories generated negligible revenue impact (<0.05%), while mid-tier bikes ($500-$1,000) gained traction at 8% of sales. Premium bikes maintained dominance at 92% of total revenue.
+- **Accelerated Diversification (2013)**: Portfolio breadth expanded with bike stands ($100-$500 range) contributing <1% of sales. The sub-$100 category achieved significant penetration, reaching $1M (6% of revenue). Mid-tier bikes strengthened their position to 11% ($1.8M), while premium bikes, though still dominant, contracted to 83% ($13.5M).
+#### Order Volume Distribution Shift
+- **Volume vs. Value Disconnect**: 2013 data reveals a stark bifurcation in customer behavior. Sub-$100 products captured 80% of order volume despite minimal revenue contribution, while premium items (>$1,000) represented only 13% of transactions yet generated 83% of revenue. This contrasts sharply with 2010-2011, when premium products comprised 87% of order quantity.
+- ** Market Democratization Signal**: The volume shift indicates successful penetration of price-sensitive customer segments and expansion beyond the traditional premium cycling demographic.
+![Product Insights](/docs/Product_insights.png)
+#### Strategic Implications
+- **Customer Base Expansion**: Product diversification has successfully opened two distinct market channels: (1) existing customers seeking complementary products and (2) new price-conscious segments previously excluded from the premium bike market.
+- **Cross-Selling Optimization**: The accessory and apparel growth suggests successful basket-building strategies among existing bike purchasers, indicating effective customer lifetime value expansion tactics
 
 
 
